@@ -1,0 +1,10 @@
+{
+    "enabled": false,
+    "status": {
+        "type": "status",
+        "connection": "PAIRED WITH HUE HUB",
+        "lights": 0
+    },
+    "localBridgeIP": "192.168.50.219",
+    "username": "BrF1HpSFsU7GCYajLTnu2PJVWqeerI5HnhAc-Ami"
+}
