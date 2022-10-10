@@ -1,6 +1,6 @@
 {
-	"objectId": "_AVATAR_hN0bqkaa_desktop_Z6ezuq01t8t",
-	"name": "_AVATAR_hN0bqkaa_desktop",
+	"objectId": "_AVATAR_Ovpg3ltr_desktop_6g5x6oigd2d",
+	"name": "_AVATAR_Ovpg3ltr_desktop",
 	"matrix": [],
 	"worldId": "_WORLD_instantScanPJ1cgyrm_T6ijgnpsk1c",
 	"isAnchor": false,
@@ -16,9 +16,9 @@
 	"memoryCameraMatrix": {},
 	"memoryProjectionMatrix": {},
 	"frames": {
-		"_AVATAR_hN0bqkaa_desktop_Z6ezuq01t8tAvatar": {
-			"objectId": "_AVATAR_hN0bqkaa_desktop_Z6ezuq01t8t",
-			"uuid": "_AVATAR_hN0bqkaa_desktop_Z6ezuq01t8tAvatar",
+		"_AVATAR_Ovpg3ltr_desktop_6g5x6oigd2dAvatar": {
+			"objectId": "_AVATAR_Ovpg3ltr_desktop_6g5x6oigd2d",
+			"uuid": "_AVATAR_Ovpg3ltr_desktop_6g5x6oigd2dAvatar",
 			"name": "Avatar",
 			"visualization": "ar",
 			"ar": {
@@ -38,11 +38,11 @@
 			"developer": true,
 			"links": {},
 			"nodes": {
-				"_AVATAR_hN0bqkaa_desktop_Z6ezuq01t8tAvatarstorage": {
+				"_AVATAR_Ovpg3ltr_desktop_6g5x6oigd2dAvatarstorage": {
 					"name": "storage",
-					"objectId": "_AVATAR_hN0bqkaa_desktop_Z6ezuq01t8t",
-					"frameId": "_AVATAR_hN0bqkaa_desktop_Z6ezuq01t8tAvatar",
-					"uuid": "_AVATAR_hN0bqkaa_desktop_Z6ezuq01t8tAvatarstorage",
+					"objectId": "_AVATAR_Ovpg3ltr_desktop_6g5x6oigd2d",
+					"frameId": "_AVATAR_Ovpg3ltr_desktop_6g5x6oigd2dAvatar",
+					"uuid": "_AVATAR_Ovpg3ltr_desktop_6g5x6oigd2dAvatarstorage",
 					"data": {
 						"value": 0,
 						"mode": "f",
